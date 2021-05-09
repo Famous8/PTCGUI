@@ -14,5 +14,5 @@ VERSION 2.0 NEW FEATURES
 - Font Size change
 - Updated UI
 - Improved Functionality
-- 
+
 If you have any errors or suggestions please contact me DISCORD - Famous8#7094 or on Github
