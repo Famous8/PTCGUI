@@ -7,7 +7,7 @@ DIRECTIONS
 - Open the correct directory.
 - Run main.py
 - Use it!
-- 
+
 VERSION 2.0 NEW FEATURES
 
 - Copy Buttons
